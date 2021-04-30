@@ -16,7 +16,7 @@ def status():
 
     sh = auth()
     wks = sh.worksheet("Sheet1")
-    sh.worksheet("Sheet1").update("A1", "")
+
     if wks.acell("A1").value != "Currently updating":
         sh.worksheet("Sheet1").update("A1", "Currently updating")
     else:

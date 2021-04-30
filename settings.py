@@ -3,7 +3,7 @@ import os
 class Settings:
 
     # Put the ID of your Google Sheet here:
-    SHEET_ID = "1K9vDCK7kdn2yTwgq39fjAwDx_yvQQVXefOwMR9WHKmw"
+    SHEET_ID = "1Ur7CJJu-cDkhcFjEXG4smsxlKYc_323PcPYloLEvshA"
 
     # Number of business days to gather and maintain history.
     DATE_RANGE = 5
