@@ -11,9 +11,9 @@ Avg Rotation Dash downloads free tick data from Dukascopy, then resamples the ti
 
 The script can run or be scheduled locally, or hosted in the cloud (using services such as PythonAnywhere, GCP, or AWS).
 
-[Medium article]()
+[Medium article](/)
 
-[YouTube video]()
+[YouTube video](/)
 
 The idea of measuring rotations originally came from FT71 (FuturesTrader71):
 
