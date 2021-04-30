@@ -29,7 +29,9 @@ The code for downloading ticks from Dukascopy came originally from these repos:
 
 Also thanks to:
 
-[Make a README](https://www.makeareadme.com/).
+[Make a README](https://www.makeareadme.com/)
+
+[Ultraworking - Work Marathon](https://www.ultraworking.com/work-marathon)
 
 
 ## Installation
