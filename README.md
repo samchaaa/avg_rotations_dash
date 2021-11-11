@@ -13,7 +13,7 @@ Avg Rotation Dash downloads free tick data from Dukascopy, then resamples the ti
 
 The script can run or be scheduled locally, or hosted in the cloud (using services such as PythonAnywhere, GCP, or AWS).
 
-[Medium article](https://github.com/samchaaa/avg_rotations_dash/)
+[Hacker Noon article](https://hackernoon.com/adjust-your-market-risk-wisely-with-this-awesome-python-and-google-sheets-rotation-dashboard-3n1e34l1)
 
 [YouTube video](https://github.com/samchaaa/avg_rotations_dash/)
 
