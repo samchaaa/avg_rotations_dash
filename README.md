@@ -3,6 +3,8 @@
 [![Google Sheet](https://github.com/samchaaa/avg_rotations_dash/raw/main/preview.png)](https://docs.google.com/spreadsheets/d/1Ur7CJJu-cDkhcFjEXG4smsxlKYc_323PcPYloLEvshA/edit#gid=0)
 [Google Sheet - Average Rotations Dashboard LIVE](https://docs.google.com/spreadsheets/d/1Ur7CJJu-cDkhcFjEXG4smsxlKYc_323PcPYloLEvshA/edit#gid=0)
 
+Note: As of Nov 2021, this will be scheduled to run just 1x per day to save resources. 
+
 Avg Rotation Dash is a dashboard showing statistics of "rotations" for different financial instruments. It is mainly for manual intraday and algorithmic traders.
 
 The point of measuring rotations is to give us reasonable (but dynamic) expectations of risk.
